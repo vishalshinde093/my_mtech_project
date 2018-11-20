@@ -1,0 +1,26 @@
+product/productId: B001E4KFG0
+review/userId: A3SGXH7AUHU8GW
+review/profileName: delmartian
+review/helpfulness: 1/1
+review/score: 5.0
+review/time: 1303862400
+review/summary: The Food
+review/text: was delicious.
+
+product/productId: B00813GRG4
+review/userId: A1D87F6ZCVE5NK
+review/profileName: dll pa
+review/helpfulness: 0/0
+review/score: 1.0
+review/time: 1346976000
+review/summary: The admosphere
+review/text: was a concern.
+
+product/productId: B000LQOCH0
+review/userId: ABXLMWJIXXAIN
+review/profileName: Natalia Corres "Natalia Corres"
+review/helpfulness: 1/1
+review/score: 4.0
+review/time: 1219017600
+review/summary: This is
+review/text: delicious chicken.
